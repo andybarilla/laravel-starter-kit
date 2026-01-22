@@ -2,14 +2,14 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "andybarilla/livewire-starter-kit",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "Another Laravel starter kit for Livewire from Andy Barilla.",
     "keywords": [
         "laravel",
         "framework"
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.2",
+        "php": "^8.4",
         "laravel/fortify": "^1.30",
         "laravel/framework": "^12.0",
         "laravel/horizon": "^5.43",
